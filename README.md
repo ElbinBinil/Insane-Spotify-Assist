@@ -1,6 +1,7 @@
 # Getting Started with Insane Spotify Assist
 
-This is an website that is powered by **ReactJS**(https://reactjs.org) and **Spotify API**(https://spotify.com).
+This is an website that is powered by **ReactJS**(https://reactjs.org) and
+**Spotify API**(https://developer.spotify.com/documentation/web-api/).
 You could view this page by clicking this link(http://insanespotify.surge.sh)
 This is collects the user **cleint_id** and **accessToken** to access their Spotify account. There is a search bar in this website and it is connected to **Spotify search** and it collects
 _ Artist name
