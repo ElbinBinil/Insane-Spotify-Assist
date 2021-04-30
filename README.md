@@ -12,7 +12,7 @@ you could change this name by inputing you **custom name** in the **input area**
 
 ### Author :
 
-    Elbin Binil(https://elbinbinil.github.io)
+Elbin Binil(https://elbinbinil.github.io)
 
 ## Getting Started with Create React App
 
